@@ -43,9 +43,9 @@ Users interact with the frontend interface, which sends requests to Supabase's A
 ## 🔧 Installation
 
 1. Clone this repository 
-  ```bash
-  git clone https://github.com/frauvate/thynk-analyzer.git
-  ```
+   ```bash
+   git clone https://github.com/frauvate/thynk-analyzer.git
+   ```
 
 2. Install dependencies
    ```bash
@@ -55,3 +55,24 @@ Users interact with the frontend interface, which sends requests to Supabase's A
 3. Set up environment variables
    - Create a .env file
    - Add your Supabase and Hugging Face API keys
+
+4. Run the development server
+   ```bash
+   npm run dev
+   ```
+
+## 🧪 Development Notes
+
+This project was developed as part of a Software Requirements Analysis assignment at Firat University.
+
+Educational Focus:
+✔ Practical application of React/TypeScript
+✔ Integration of multiple cloud services (Supabase, Hugging Face)
+✔ Responsive UI design principles
+✔ API consumption and data processing
+✔ Implementing AI tools in real world scenarios
+
+## 📄 License
+
+This project is created solely for educational and demonstration purposes.  
+Any commercial use, redistribution, or modification without explicit permission is prohibited.
