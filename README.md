@@ -66,13 +66,16 @@ Users interact with the frontend interface, which sends requests to Supabase's A
 This project was developed as part of a Software Requirements Analysis assignment at Firat University.
 
 Educational Focus:
-✔ Practical application of React/TypeScript
-✔ Integration of multiple cloud services (Supabase, Hugging Face)
-✔ Responsive UI design principles
-✔ API consumption and data processing
-✔ Implementing AI tools in real world scenarios
+- ✔ Practical application of React/TypeScript
+- ✔ Integration of multiple cloud services (Supabase, Hugging Face)
+- ✔ Responsive UI design principles
+- ✔ API consumption and data processing
+- ✔ Implementing AI tools in real world scenarios
 
 ## 📄 License
 
 This project is created solely for educational and demonstration purposes.  
 Any commercial use, redistribution, or modification without explicit permission is prohibited.
+
+---
+Made with ❤️ by Esma & Büşra
