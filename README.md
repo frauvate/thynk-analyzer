@@ -50,7 +50,7 @@ Users interact with the frontend interface, which sends requests to Supabase's A
 2. Install dependencies
    ```bash
    npm install
-   ```
+   ``` 
 
 3. Set up environment variables
    - Create a .env file
