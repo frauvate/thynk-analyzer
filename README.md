@@ -26,7 +26,7 @@ This project is a web application that allows users to create their CVs, analyze
 |----------------|----------------------|
 | Frontend       | React, TypeScript    |
 | UI Framework   | HTML, CSS, JS (JSX/TSX) |
-| Backend        | Supabase (veritabanı + auth + storage) |
+| Backend        | Supabase (database + auth + storage) |
 | AI / NLP       | Hugging Face Transformers API |
 | Deployment     | Vercel / Netlify (recommended) |
 
